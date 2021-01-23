@@ -1,0 +1,14 @@
+{
+  "name": "elasticsearcht-sdk",
+  "version": "1.0.0",
+  "description": "tp sdk pour elastic search",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BBR",
+  "license": "ISC",
+  "dependencies": {
+    "@elastic/elasticsearch": "^7.10.0"
+  }
+}
